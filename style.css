@@ -1,0 +1,42 @@
+#navbarNav {
+    justify-content: flex-end;
+
+}
+
+#section {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    background-color: rgb(228, 225, 225);
+}
+
+#section_button,
+#section_p {
+    margin-top: 2rem;
+}
+
+#section_col {
+    padding-left: 3rem;
+}
+
+#card {
+    justify-content: space-between;
+}
+
+#section_card {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+main {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    row-gap: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+#footer_p {
+    align-items: center;
+    margin-bottom: 0;
+}
